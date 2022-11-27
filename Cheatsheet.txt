@@ -1,0 +1,20 @@
+git status
+
+git remote add origin {url}
+git remote -v
+git push --set-upstream origin master
+
+git add
+git commit -m "..."
+git push -u origin
+
+
+git tag 
+git tag -a (tag name) -m (tag message)
+git push origin (tag name)
+git tag -d (tag name)
+git push origin -d (tag name)
+
+
+cd ..
+cd (file name)
